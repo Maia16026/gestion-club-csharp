@@ -1,0 +1,12 @@
+C:\Users\usuario\OneDrive\Desktop\C#\Proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\OneDrive\Desktop\C#\Proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\usuario\OneDrive\Desktop\C#\Proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\usuario\OneDrive\Desktop\C#\Proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\usuario\OneDrive\Desktop\C#\Proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\usuario\OneDrive\Desktop\C#\Proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\miapo\Desktop\Proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\miapo\Desktop\Proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\miapo\Desktop\Proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\miapo\Desktop\Proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\miapo\Desktop\Proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\miapo\Desktop\Proyecto\proyecto\obj\Debug\proyecto.pdb
