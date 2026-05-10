@@ -3,14 +3,14 @@ using System.Collections;
 
 namespace proyecto
 {
-	public class Niño:Persona
+	public class Nino:Persona
 	{
 		private int mes_pago;
 		private bool esSocio;
 		private double descuento;
 		private Deporte deporte;
 		
-		public Niño(string nombre, int edad, int dni,int mes, Deporte deporte,  double descuento, bool socio) : base(nombre,edad,dni)
+		public Nino(string nombre, int edad, int dni,int mes, Deporte deporte,  double descuento, bool socio) : base(nombre,edad,dni)
 		{
 			mes = mes_pago;
 			this.descuento = descuento;
@@ -29,5 +29,18 @@ namespace proyecto
 			set{descuento=value;}
 			get{return descuento;}
 		}
+		public void PagarCuota(int mes)
+        {
+            mesPago = mes;
+        }
+		public double CalcularCuota(double cuotaBase)
+        {
+            if (esSocio)
+            {
+                return cuotaBase * (1 - descuento / 100);
+            }
+
+            return cuotaBase;
+        }
 	}
 }
